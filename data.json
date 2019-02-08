@@ -1,0 +1,15 @@
+{
+  "index":[{
+    "image":"sri.jpg",
+    "name":"srilu",
+    "occ":"student",
+    "profile":"profile"
+  },
+  {
+    "image":"sri.jpg",
+    "name":"kapil",
+    "occ":"job",
+    "profile":"profile"
+  }
+]
+}
